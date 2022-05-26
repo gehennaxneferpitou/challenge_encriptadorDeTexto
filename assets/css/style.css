@@ -1,3 +1,8 @@
+body {
+    background: rgb(63,228,251);
+    background: radial-gradient(circle, rgba(63,228,251,1) 0%, rgba(246,247,128,0.5886729691876751) 100%);
+}
+
 .card{
     margin:10px;
 }
@@ -8,7 +13,7 @@
 
 /*card1*/
 .logo{
-    padding: 1rem;
+    padding: 1.5rem;
     width: 120px;
     height: 48px;
     margin-bottom:30px;
